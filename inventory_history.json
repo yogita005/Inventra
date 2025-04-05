@@ -1,0 +1,22 @@
+{
+    "timestamps": [
+        "2025-03-31 23:05:23"
+    ],
+    "data": {
+        "apple": [
+            3
+        ],
+        "banana": [
+            0
+        ],
+        "orange": [
+            2
+        ],
+        "blue_item": [
+            0
+        ],
+        "green_item": [
+            0
+        ]
+    }
+}

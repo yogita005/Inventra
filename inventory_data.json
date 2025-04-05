@@ -1,0 +1,47 @@
+{
+    "apple": {
+        "count": 3,
+        "min_stock": 5,
+        "unit_price": 0.75,
+        "supplier": "FreshFruits Inc.",
+        "category": "fruit",
+        "shelf_life_days": 14,
+        "last_updated": "2025-03-31 22:33:28"
+    },
+    "banana": {
+        "count": 0,
+        "min_stock": 8,
+        "unit_price": 0.25,
+        "supplier": "TropicalGoods",
+        "category": "fruit",
+        "shelf_life_days": 7,
+        "last_updated": "2025-03-31 22:33:27"
+    },
+    "orange": {
+        "count": 2,
+        "min_stock": 6,
+        "unit_price": 0.8,
+        "supplier": "CitrusSuppliers",
+        "category": "fruit",
+        "shelf_life_days": 21,
+        "last_updated": "2025-03-31 22:33:28"
+    },
+    "blue_item": {
+        "count": 0,
+        "min_stock": 3,
+        "unit_price": 1.5,
+        "supplier": "BlueProducts Ltd.",
+        "category": "manufactured",
+        "shelf_life_days": 365,
+        "last_updated": "2025-03-31 22:33:27"
+    },
+    "green_item": {
+        "count": 0,
+        "min_stock": 4,
+        "unit_price": 1.25,
+        "supplier": "GreenGoods Co.",
+        "category": "manufactured",
+        "shelf_life_days": 365,
+        "last_updated": "2025-03-31 23:05:23"
+    }
+}
